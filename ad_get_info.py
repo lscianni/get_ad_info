@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- conding:utf-8 -*-
 #
+# L.Scianni
+# Released under the GPL-v2
 
 from ldap3 import  Server, Connection, ALL, NTLM
 from sys import argv
